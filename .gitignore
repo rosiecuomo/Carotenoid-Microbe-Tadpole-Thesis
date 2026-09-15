@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ---- OS/system junk ----
+.DS_Store
+Thumbs.db
+ 
+
+# ---- Credentials / secrets (never commit these) ----
+.Renviron
+*.pem
+*.key
+PAT.txt
